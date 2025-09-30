@@ -1,4 +1,4 @@
-## Hi thore 👋
+## Hi there 👋
 
 I'm Conor, a Data Science Master's student at Imperial College London.
 
